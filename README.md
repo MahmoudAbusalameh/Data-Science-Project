@@ -1,4 +1,4 @@
-# Data-Science-Projrct
+# Data-Science-Project
 # Murder Crimes Reports 
 ## The aim:
 To find patterns in murders happened between 1980 and 2014 in the United States and to find possible serial killers.
